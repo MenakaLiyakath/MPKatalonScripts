@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Volunteers not displayed on Host and helper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9b6f0bb-8174-4653-b583-52910a19f3b3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49fc6359-2933-4455-8c21-89ff91541595</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2e1e5e8-8211-4bda-a3a7-681f923602bb</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e87aec82-bd85-4235-b036-2ec4e56effa0</id>
+      <masked>false</masked>
+      <name>HostOrHelper</name>
+   </variable>
+</TestCaseEntity>

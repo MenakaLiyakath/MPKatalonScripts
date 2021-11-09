@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#405</description>
+   <name>TC 04-Validate Recurring Calendar Event</name>
+   <tag></tag>
+   <comment>test</comment>
+   <testCaseGuid>d709d180-6c6f-47fd-84a4-b1dffb39686b</testCaseGuid>
+</TestCaseEntity>

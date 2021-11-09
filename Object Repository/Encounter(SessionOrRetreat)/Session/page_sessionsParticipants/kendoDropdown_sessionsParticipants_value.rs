@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kendoDropdown_sessionsParticipants_value</name>
+   <tag></tag>
+   <elementGuidId>cc33e2b3-57ac-4c05-9d56-67f58da982e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@class='k-item'][text()=&quot;${selectValue}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@class='k-item'][text()=&quot;${selectValue}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

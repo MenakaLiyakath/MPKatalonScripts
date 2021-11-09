@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-auto-Assign Participants</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6464ec8-3b2f-43d3-9bd6-63548889c808</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20a2c561-f5cb-40eb-823e-998a29de5ae5</id>
+      <masked>false</masked>
+      <name>NameOfFirstParticipant</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aac930e3-834b-48ec-9eb3-e2d43f5e524c</id>
+      <masked>false</masked>
+      <name>NameOfSecondParticipant</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c272d1ae-b220-4683-9397-77aa3842568b</id>
+      <masked>false</masked>
+      <name>NumberToGroupWithFirstParticipant</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87b248c4-631a-4b57-b993-9b7420688ce5</id>
+      <masked>false</masked>
+      <name>NumberToGroupWithSecondParticipant</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>641d9ef4-cfb0-47cd-931a-72423353afe3</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

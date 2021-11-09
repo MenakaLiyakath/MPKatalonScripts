@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_dietaryrestrictionsDisplay</name>
+   <tag></tag>
+   <elementGuidId>7cce97cd-294b-492f-a9c9-6178e2ea74d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='dietaryRestrictionsRequired']//ancestor::td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='dietaryRestrictionsRequired']//ancestor::td</value>
+   </webElementProperties>
+</WebElementEntity>

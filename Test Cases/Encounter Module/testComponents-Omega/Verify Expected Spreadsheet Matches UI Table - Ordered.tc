@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Expected Spreadsheet Matches UI Table - Ordered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcf2b3ef-eec5-4524-9214-d50546e2d229</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2c93ee7-9d9f-44fc-8b93-94a048cc6cfb</id>
+      <masked>false</masked>
+      <name>dataFileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'//table'</defaultValue>
+      <description></description>
+      <id>a4a50a3a-282b-4d84-a125-25cbb46f04b0</id>
+      <masked>false</masked>
+      <name>xpathOfTable</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>3294cc04-b1d8-4753-b8ff-90ad85f717ec</id>
+      <masked>false</masked>
+      <name>numberOfSkipRows</name>
+   </variable>
+</TestCaseEntity>

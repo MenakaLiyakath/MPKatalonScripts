@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Selected Participant is not availale on Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fe5ecb8-6162-4083-ae4c-d485d2a7acb7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ce88ce8-7049-4e6c-83cb-d5b34af42ac2</id>
+      <masked>false</masked>
+      <name>ParticipantName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67739444-f3dc-4a84-85c3-908535585344</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14ae1ea4-1674-449d-9bf4-878d285d9aef</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>b5f25e54-c916-41c8-9258-d4e45f1b0b22</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e97efd66-4b86-49f0-b084-f6a0397aa679</id>
+      <masked>false</masked>
+      <name>FeedbackRating</name>
+   </variable>
+</TestCaseEntity>

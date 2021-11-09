@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropDown_addVolunteer_primaryRoleValue</name>
+   <tag></tag>
+   <elementGuidId>6a483c7d-d174-4c9f-a2eb-71c946f3e95e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='primaryRoleDropdown']//div//span[text()=&quot;$(primaryRoleValue}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='primaryRoleDropdown']//div//span[text()=&quot;$(primaryRoleValue}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

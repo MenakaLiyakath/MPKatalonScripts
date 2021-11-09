@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#67</description>
+   <name>Navigate to group overview from profile page</name>
+   <tag></tag>
+   <comment>input filter values
+click and open person</comment>
+   <testCaseGuid>bbc0c9d8-910c-4515-9fef-6d87afeec9e2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7699850-6901-44cd-b5e7-fe62bc189aa7</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b72ca8d-dc10-4151-b340-b48733cba837</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>c3705693-a5c8-4d3d-a513-002aa3ed8a2b</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2104c763-4551-48d8-8841-1671ea67dce0</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Is equal to'</defaultValue>
+      <description></description>
+      <id>480597a0-5242-4290-9970-4eb0958dce18</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+</TestCaseEntity>

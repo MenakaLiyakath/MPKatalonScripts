@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#53</description>
+   <name>TC 04-Click on Group name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84830f8d-f160-4a10-ae9f-2269c782a069</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>1c8a8539-e4ff-4116-8575-0b7072462ffa</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdb63ccc-5198-4674-9b23-49f4ef9b4ee7</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

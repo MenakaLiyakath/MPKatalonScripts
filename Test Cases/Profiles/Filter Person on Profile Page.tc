@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Person on Profile Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b1d5743-4fcf-4832-945d-f39ec66ca2ef</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>162076b2-ced1-4fe0-bd35-249fad93a119</id>
+      <masked>false</masked>
+      <name>filterColumn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16fa9c78-a4c2-4288-a8a2-2c95abf55162</id>
+      <masked>false</masked>
+      <name>filterValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d57096a4-db43-425f-9a71-22b024ff580d</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+</TestCaseEntity>

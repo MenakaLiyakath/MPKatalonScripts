@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>mailCheck</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa.rdwrcr@gmail.com'</initValue>
+      <name>gmailUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Menlo#123'</initValue>
+      <name>gmailPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

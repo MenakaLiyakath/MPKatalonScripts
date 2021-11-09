@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retreat Overview-Validate RetreatTile values for all Retreat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b87309f5-9aca-42e8-8a47-60bd3f066263</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>d3b33b33-7863-4c34-bcc4-f9afb7f51af0</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

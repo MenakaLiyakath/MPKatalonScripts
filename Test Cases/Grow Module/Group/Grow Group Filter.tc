@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#321</description>
+   <name>TC 09-Grow Group Filter</name>
+   <tag></tag>
+   <comment>validate with group name
+validate with group type
+validate with group Focus
+validate with group PrimaryLocation
+validate with group Address
+validate with group Room Details
+validate with group notes Details
+validate with Active/inactive Details
+validate with Audience Details</comment>
+   <testCaseGuid>a3581695-b75c-420b-892d-99a75323010c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4ae9851-17cb-4fd9-ad39-6951c2cf4627</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed5d74f2-4f25-4af1-9ee9-1d1ffc146027</id>
+      <masked>false</masked>
+      <name>GroupType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b238ee4e-1518-4dce-97ef-80e59e7d1511</id>
+      <masked>false</masked>
+      <name>Audience</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6b4173f-8d8c-4312-abc7-5e6a06502a3d</id>
+      <masked>false</masked>
+      <name>Focus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af2a0d9b-5375-428b-ae44-8090a5e08b31</id>
+      <masked>false</masked>
+      <name>PrimaryLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a289033-e2d4-4d6c-b5fb-af61f8fa36dc</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84208a56-f08f-4ff2-bb8d-7b8205d06103</id>
+      <masked>false</masked>
+      <name>Room</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>722cc354-aa8a-4e4f-9c86-1a6bd5fa092c</id>
+      <masked>false</masked>
+      <name>GroupNotes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>1be8f8bf-2c36-401a-ae8f-ea54d43390dc</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

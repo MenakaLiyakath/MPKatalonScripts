@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#839,346</description>
+   <name>Communication-Email Grow Members</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dbf1db8-60c1-4c82-8353-b6f6bf5dc948</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>49b233b9-cb1a-446d-aff0-fff4c370eda9</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

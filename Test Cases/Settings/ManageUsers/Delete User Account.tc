@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#146</description>
+   <name>Delete User Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da38b42b-7458-41ed-8e50-acba41bc5b05</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>443a3a8e-784a-4d9c-9404-b7feca190303</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70db531a-4a39-405d-9de9-8609ca9892f9</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>41236d8c-4ecf-46cd-a05e-479967452267</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24fd4195-14ee-4bd6-9fde-e86b7ce98c5b</id>
+      <masked>false</masked>
+      <name>Firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f0f4434-a91a-4348-a68a-54a5265e6436</id>
+      <masked>false</masked>
+      <name>deleteSingle</name>
+   </variable>
+</TestCaseEntity>

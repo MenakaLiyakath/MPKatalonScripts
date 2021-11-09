@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_addVolunteer_clearSecondaryRole</name>
+   <tag></tag>
+   <elementGuidId>20e13680-6c8b-43bf-9520-ef2560b321ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='secondaryRoleDropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='secondaryRoleDropdown']//span//span[@class='ng-clear']</value>
+   </webElementProperties>
+</WebElementEntity>

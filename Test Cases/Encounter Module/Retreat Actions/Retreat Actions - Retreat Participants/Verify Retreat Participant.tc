@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Retreat Participant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>567651e8-76ca-4e55-b3e7-89ac1e2fd8eb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0853d88-a88f-45e2-81b2-0fd8a4e71262</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68cb0c24-0b6f-4cf1-be78-8f11797200fd</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>1b44b095-5caf-46ee-b43d-6372d5995d5f</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

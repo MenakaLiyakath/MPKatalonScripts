@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card# 80</description>
+   <name>Verify Group Type on Grow Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87d23fc8-1698-4527-8b21-cc7fd5f6a758</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>361a714b-895f-4138-864d-b748e27c765b</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8687ac62-a63c-4ad3-a3ee-9370d61cbbd9</id>
+      <masked>false</masked>
+      <name>GroupTypeOnSettings</name>
+   </variable>
+</TestCaseEntity>

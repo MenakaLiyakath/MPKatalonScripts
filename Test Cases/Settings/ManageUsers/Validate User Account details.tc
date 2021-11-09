@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#142</description>
+   <name>Validate User Account details</name>
+   <tag></tag>
+   <comment>Validate the account details on user account table
+input filter values</comment>
+   <testCaseGuid>0cf6caa2-15c9-44da-8d94-3a46e63940f0</testCaseGuid>
+   <variable>
+      <defaultValue>'Is equal to'</defaultValue>
+      <description></description>
+      <id>68af5069-5bfc-47e1-8eb6-2745dff60b1f</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b53d73bc-d28c-46dc-b570-0115284f5ef6</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15d1ce6b-1c36-4c05-b2b0-3fa830d92059</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>ef43f2cf-2ece-4dc1-bbff-705def4de325</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aff125f1-14f8-41e4-829d-6aef06c5f419</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b01a2723-360e-4e12-a9af-150d859c6c5c</id>
+      <masked>false</masked>
+      <name>EncounterAccess</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7821d2e4-375e-4a05-aed1-2c2b8f7da17b</id>
+      <masked>false</masked>
+      <name>GrowModuleAccess</name>
+   </variable>
+</TestCaseEntity>

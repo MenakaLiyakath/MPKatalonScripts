@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-Verify Volunteer Host-Helper Roles in Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0050bd44-2066-4cc7-9952-e756e7c12358</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d203a83-fb16-4024-b67f-3ffda0302a56</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9faabf60-fb00-47f6-a345-569f23065cdb</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1a61325-d5f5-4dc5-ad10-e15485b1c22f</id>
+      <masked>false</masked>
+      <name>PrimaryRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7466b95d-39b2-4f35-81d0-beb3458c97b2</id>
+      <masked>false</masked>
+      <name>SecondaryRole</name>
+   </variable>
+</TestCaseEntity>

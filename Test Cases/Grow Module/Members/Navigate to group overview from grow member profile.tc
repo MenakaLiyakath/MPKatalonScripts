@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#67</description>
+   <name>Navigate to group overview from grow member profile</name>
+   <tag></tag>
+   <comment>Click on Created members</comment>
+   <testCaseGuid>b8d732ee-f5ef-4441-8780-53ab1fa3134d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8b273d1-423a-4469-80c1-3e2fed793e22</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d77b41b-0bce-4ea8-9524-cf6a2169d917</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>caaeeb86-8022-45b7-957d-d9cfa1425457</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d6f1d6d-c009-48ac-86a1-f8694953fa04</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-manually Assign Group Participants</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2599ec8-b587-4008-a38f-665693d5e506</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>13182a6b-6618-42b6-a454-540681974744</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3dd9c0f6-2d65-4f38-a689-0b32994557d4</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a8f2266-b04f-4b33-8a8b-a0adf8174333</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>745bf60b-6c3e-49c5-88e6-8026f22c37f0</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-change Group Names</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dca5c2b6-7ed8-41a6-a651-3c2639d3325d</testCaseGuid>
+   <variable>
+      <defaultValue>'Table 1'</defaultValue>
+      <description></description>
+      <id>3c5d4554-f08d-40d3-876c-e9d9b5ce8ad1</id>
+      <masked>false</masked>
+      <name>Group1Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Table 2'</defaultValue>
+      <description></description>
+      <id>95fd376c-65a1-48dd-bc9f-d9bd0b47d5c9</id>
+      <masked>false</masked>
+      <name>Group2Name</name>
+   </variable>
+</TestCaseEntity>

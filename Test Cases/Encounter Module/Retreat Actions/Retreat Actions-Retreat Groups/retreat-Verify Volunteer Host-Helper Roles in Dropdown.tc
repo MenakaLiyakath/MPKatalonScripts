@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-Verify Volunteer Host-Helper Roles in Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7c6a581-12bb-4230-b6b5-3b55e1607c31</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8710e595-b0ab-4acb-aa62-a2a11ace13b7</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9273808-e906-47c6-94c7-059160677010</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d7119ae-d3cc-4af2-b44c-330d9743da1d</id>
+      <masked>false</masked>
+      <name>PrimaryRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e1ed104-8452-4ff8-84cb-a798b11ccef6</id>
+      <masked>false</masked>
+      <name>SecondaryRole</name>
+   </variable>
+</TestCaseEntity>

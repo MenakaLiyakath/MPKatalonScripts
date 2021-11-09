@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Multiple partcipant for Confirm attending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d07718-c38b-45b9-b1c4-630272df7a18</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1796307a-5853-4a76-ac4c-52f62b9d08d4</id>
+      <masked>false</masked>
+      <name>confirmAttending</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>a3687a7c-92a7-4d08-9b0c-fbc3734bd50f</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

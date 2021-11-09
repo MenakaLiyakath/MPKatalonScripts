@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#227</description>
+   <name>Communication-Text Person on People page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>455d6e7e-5276-4f41-876b-6716f776592c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0da7823-d41e-4d2b-a752-42eda39d5cda</id>
+      <masked>false</masked>
+      <name>communicateVia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>53648b83-ae2a-4feb-a69e-506874e72b3c</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

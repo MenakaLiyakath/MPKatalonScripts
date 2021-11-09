@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#59</description>
+   <name>Click Grow Member on Profile Page</name>
+   <tag></tag>
+   <comment>Navigate to Faith Journey Tab
+Navigate to Journey points</comment>
+   <testCaseGuid>10665cbd-fb92-42e9-9cbc-dd87c52d281d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4eb2c124-2f9b-4b09-8a9a-f97f7bf78e5f</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ba5de80-17c1-4019-91a8-0f3f3bcdfa3b</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a55fde4-5324-4048-b716-477d77495a09</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0db37436-c340-4b45-8e1e-2559a61723b8</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa769774-6c0c-4e3a-a4dc-125641a19fac</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3a01f1d-00b5-4efc-8114-45821552a548</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>74f43255-6622-4f97-ba72-40b8471bf4e8</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

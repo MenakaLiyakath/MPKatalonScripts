@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Statistics_View Session Rating for all session types</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>681a7da5-0f50-46c4-8134-b18377fc656a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>53194d3f-5738-4077-8a42-cde975ed3db7</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

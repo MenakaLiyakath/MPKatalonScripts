@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 21-Volunteer link session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>873d2acd-9d45-45a1-977c-df9a2955a857</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d845e7e6-4d7a-477c-a488-991030df4d97</id>
+      <masked>false</masked>
+      <name>module</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>095f3fe3-9f2b-40d6-86df-1328813b023e</id>
+      <masked>false</masked>
+      <name>sessionOrRetreatName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3fc21d8-1585-463d-9431-0f05dff4c762</id>
+      <masked>false</masked>
+      <name>participantOrVolunteer</name>
+   </variable>
+</TestCaseEntity>

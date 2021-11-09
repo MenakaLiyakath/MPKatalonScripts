@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03-Get group registration link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c785628-12ff-4518-8564-6af8f2318a27</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>dd9cc4c1-df12-48af-933b-178d44d9d624</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57a60187-06da-46f5-b9b5-1bf86ce4097f</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

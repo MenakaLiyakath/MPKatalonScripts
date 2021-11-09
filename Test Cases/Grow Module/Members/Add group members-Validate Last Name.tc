@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#118
+</description>
+   <name>TC 02-Add group members-Validate Last Name</name>
+   <tag></tag>
+   <comment>Check for duplicate values on field
+Verify if create new and similar records spans are displayed
+Split the total similar records and convert it to integer
+Get the total count of options in last name dropdown and validate it against the total similar records
+Create New /Select existing
+Create New
+changes for card 282
+Select Existing Similair records
+From other Grow Group
+Validate all member related fields are disabled and non member fields are editable
+Enter value in editable field
+Clear fields and validate all field values are set to default
+Select similar record and save and close
+Validated added members exist on Table</comment>
+   <testCaseGuid>701c644a-3ab4-464c-81e1-b79e1c51a66f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>6c2bd43a-168a-45e5-bab7-62ce7d1229c7</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>153e5944-b92f-41ed-9c45-ef5ea38d2640</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbb04ff7-8fd8-46c2-8734-247f71b14a4f</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>619ed7c1-59ff-48c4-aa81-04424e58506a</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66f65b8e-0aa5-43c2-9292-c808d2e67987</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

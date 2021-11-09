@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>logout-clear-cookies</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e3c08f5-3c76-4ef3-a356-10cd42ebdb94</testCaseGuid>
+</TestCaseEntity>

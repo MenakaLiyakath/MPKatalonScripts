@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DB Action-Add Lookups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c29733f8-78fd-4627-abc2-b2f7d49be1f6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>814e0070-8c07-49a7-8624-b868cf60be95</id>
+      <masked>false</masked>
+      <name>skillValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e8e2af5-91fc-4906-ba34-e075beb896a8</id>
+      <masked>false</masked>
+      <name>strengthValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>077442d8-127c-40e2-b014-131b5e4bb29d</id>
+      <masked>false</masked>
+      <name>interestValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b0077d9-9a6d-4683-ac67-8b46434fe6c0</id>
+      <masked>false</masked>
+      <name>spiritualgiftsValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5424c345-c84e-4ff4-83fb-b2521d31f3c9</id>
+      <masked>false</masked>
+      <name>volunteerValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78f4ec2a-1135-42da-87e0-f7f50cc17ec6</id>
+      <masked>false</masked>
+      <name>thresholdValue</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97a7025b-5a3d-48f8-84b3-0c93990158af</id>
+      <masked>false</masked>
+      <name>regionsValue</name>
+   </variable>
+</TestCaseEntity>

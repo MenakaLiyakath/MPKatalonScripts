@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 26-Verify Session Leaders and Lead Volunteers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4163116e-f02c-4a4c-878d-f7c4c9bda6a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>448cf056-a8bc-414b-8d32-a555728c6435</id>
+      <masked>false</masked>
+      <name>expectedSessionLeaders</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b45541e5-34f5-4c34-a8b5-ff888c17c856</id>
+      <masked>false</masked>
+      <name>expectedLeadVolunteers</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6680c460-4778-449f-a46b-5f9ab0da1d4c</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d839a382-afad-4c54-aba2-c8cd33276c25</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d43fd098-3c78-4fd8-ba58-447db879d284</id>
+      <masked>false</masked>
+      <name>PrimaryRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0f4bede-213a-4305-b602-76eddccd6d3c</id>
+      <masked>false</masked>
+      <name>SecondaryRole</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card # 84</description>
+   <name>Delete single group Type and Validate associated group count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f60a3fcf-ce5c-41cb-b3d4-41843982e0e5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>3be71b17-43dc-4ed3-9244-c67e901afb10</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70992b6a-947b-4838-b87f-3fd49b70a037</id>
+      <masked>false</masked>
+      <name>GroupTypeOnSettings</name>
+   </variable>
+</TestCaseEntity>

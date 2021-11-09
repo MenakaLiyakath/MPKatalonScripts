@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-change Group Names</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>285d830e-3e27-4d75-be14-a0b4ad2788b8</testCaseGuid>
+   <variable>
+      <defaultValue>'Table 1'</defaultValue>
+      <description></description>
+      <id>d7658397-6df3-44d6-8137-e092991e2b9b</id>
+      <masked>false</masked>
+      <name>Group1Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Table 2'</defaultValue>
+      <description></description>
+      <id>78e7fe2e-2fca-47ee-a9ae-2db845c401f9</id>
+      <masked>false</masked>
+      <name>Group2Name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_createProfile_clearPrimaryRole</name>
+   <tag></tag>
+   <elementGuidId>d3a10b81-ba3e-44f5-8e0b-ee9b565a761b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='primaryRoleDropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ng-select[@id='primaryRoleDropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='primaryRoleDropdown']//span//span[@class='ng-clear']</value>
+   </webElementProperties>
+</WebElementEntity>

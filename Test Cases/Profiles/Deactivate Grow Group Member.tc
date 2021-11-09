@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#61</description>
+   <name>Deactivate Grow Group Member</name>
+   <tag></tag>
+   <comment>Navigate to Grow page and open group 
+Navigate to member tab and validate if the member is removed
+Navigate to people page
+click and open person
+Navigate to Faith Journey Tab
+Navigate to Journey points Tab</comment>
+   <testCaseGuid>af58f8fd-6cc5-4683-b79b-f63dc4a87104</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>04f37122-6e6c-4f15-9e8b-6eeebf36bef4</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ba5422d-0790-4229-aa86-08fefc9d92c8</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9160070a-99d2-4ff6-b2dc-fca8b9030bcf</id>
+      <masked>false</masked>
+      <name>Audience</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89bc0023-f608-4ed9-89a0-c8be362d618c</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e1707a4-d79e-4a12-89f3-7f750f600408</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a4e16a9-c17b-487b-a419-5dc9da6f3476</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Is equal to'</defaultValue>
+      <description></description>
+      <id>de60ba9a-25d8-4b73-a2bc-d8be5c986aae</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+</TestCaseEntity>

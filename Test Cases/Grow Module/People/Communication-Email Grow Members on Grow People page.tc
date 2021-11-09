@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#227,346</description>
+   <name>Communication-Email Grow Members on Grow People page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18cc2fde-2ce9-42b1-85db-37417e3dcda3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c11668e-c228-47ce-ad62-e86e21845e9b</id>
+      <masked>false</masked>
+      <name>communicateVia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>c6055229-e686-47fe-a168-15488c54faa1</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

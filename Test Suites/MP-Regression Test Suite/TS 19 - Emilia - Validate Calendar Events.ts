@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS 19 - Emilia - Validate Calendar Events</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9f4afc62-395c-4b39-b4cf-20a5af664258</testSuiteGuid>
+   <testCaseLink>
+      <guid>ffb62e8d-23b8-44fe-af9f-bdc7abccfb8c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Actions/Common Actions- Module navigation</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3663cdb6-99c9-4a9d-b8dc-fd992acea10c</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>30</value>
+         </iterationEntity>
+         <testDataId>Data Files/General Actions/moduleNavigation</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>3663cdb6-99c9-4a9d-b8dc-fd992acea10c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sidebarLink</value>
+         <variableId>b61c0b35-bff5-4c32-ada8-cf8b3be74ae0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3663cdb6-99c9-4a9d-b8dc-fd992acea10c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sessionOrRetreatName</value>
+         <variableId>de000f67-9f40-4c7f-a48f-ae318345ad75</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bfcbafbd-3913-4144-b552-1615dcae13f8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c77c8356-9be4-4ab0-9de5-07f7dbf8dbb1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3d5061e7-b768-4d66-a25e-ac7d1af1f332</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>94058d22-d974-4122-8d5a-4e89481ebb4d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3663cdb6-99c9-4a9d-b8dc-fd992acea10c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>module</value>
+         <variableId>a5cfb6f5-0a5d-4893-b309-dbfd563028df</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2509f8a1-08d1-4c5d-8564-871f245b0041</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b955b416-7097-4960-9a6d-fe63d5a79115</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Grow Module/Calendar/TC 04-Validate Recurring Calendar Event</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

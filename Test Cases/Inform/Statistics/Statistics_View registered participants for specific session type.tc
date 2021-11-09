@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Statistics_View registered participants for specific session type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d376366-17ed-4fdd-afb7-5a96e7b710db</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>632b88b1-0cea-4ee6-a7a3-cab542343d1d</id>
+      <masked>false</masked>
+      <name>SessType</name>
+   </variable>
+</TestCaseEntity>

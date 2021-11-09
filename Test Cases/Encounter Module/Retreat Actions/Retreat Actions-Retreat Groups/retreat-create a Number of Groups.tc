@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665
+Card#751</description>
+   <name>retreat-create a Number of Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5321ab87-ab06-4019-80b9-316357e0b712</testCaseGuid>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>08c401f4-3baf-4035-b031-eac9f7541043</id>
+      <masked>false</masked>
+      <name>numberOfGroups</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28569eba-bde6-47cb-98d8-3c083028a77e</id>
+      <masked>false</masked>
+      <name>addGroupbyIcon</name>
+   </variable>
+</TestCaseEntity>

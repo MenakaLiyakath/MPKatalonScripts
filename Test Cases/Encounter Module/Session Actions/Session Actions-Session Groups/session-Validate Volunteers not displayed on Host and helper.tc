@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-Validate Volunteers not displayed on Host and helper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07d4ee9-c8cc-4e81-9925-5ec2d6890933</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>081ba34c-a113-450c-bc5b-9c3099be26a8</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d8ce6e80-f131-47bb-b7d9-311e4e472868</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9336567e-1cdf-4655-8196-0bec059b7e9b</id>
+      <masked>false</masked>
+      <name>HostOrHelper</name>
+   </variable>
+</TestCaseEntity>

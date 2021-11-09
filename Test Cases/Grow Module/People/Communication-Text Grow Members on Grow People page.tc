@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#227,346</description>
+   <name>Communication-Text Grow Members on Grow People page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b40a8e2e-4071-4adb-827f-0118b7c67dd1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>450a46fe-f435-4faa-bd6f-86e38267a236</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

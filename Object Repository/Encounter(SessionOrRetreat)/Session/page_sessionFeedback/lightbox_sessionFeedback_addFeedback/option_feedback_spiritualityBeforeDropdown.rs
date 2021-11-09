@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_feedback_spiritualityBeforeDropdown</name>
+   <tag></tag>
+   <elementGuidId>0af68533-f15f-45f1-9154-e57630c8f837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='spiritualityBeforeDropdown']//span[text()=&quot;${selectBeforeSpirituality}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='spiritualityBeforeDropdown']//span[text()=&quot;${selectBeforeSpirituality}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

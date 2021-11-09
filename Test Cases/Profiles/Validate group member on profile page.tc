@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#61</description>
+   <name>Validate group member on profile page</name>
+   <tag></tag>
+   <comment>Navigate to Journey Points tab</comment>
+   <testCaseGuid>61510f16-bb61-43f7-a8d7-bc8b96557662</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38f3387f-79a7-41c9-b544-5ff7be2fbec5</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a854562-76a7-4227-9b2d-1c3b16cb93bd</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb93503c-83ff-4dc4-b18f-3fa098dc3180</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63e39066-ce7f-46bc-a619-0be854e8453f</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66af6f98-adc4-451b-8318-ba0fb0aa3f84</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>a2294b44-0f36-4dbf-b443-de5f3656afb9</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1ad74e7-b52f-45bf-a188-a910b4846ff1</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>

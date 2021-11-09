@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card # 507</description>
+   <name>Edit Email Session Volunteer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3975457-74c0-4a93-abf4-f18dbfe2ae77</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>8c1c4e71-a8c6-4f4a-803d-ed0d3e9d0c30</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9108ec5c-e83f-412a-9343-235b353497d4</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ffe8e11-0f99-4000-bec2-474013b50ad3</id>
+      <masked>false</masked>
+      <name>Emailedited</name>
+   </variable>
+</TestCaseEntity>

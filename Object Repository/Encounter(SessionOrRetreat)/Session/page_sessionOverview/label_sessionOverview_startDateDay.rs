@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_sessionOverview_startDateDay</name>
+   <tag></tag>
+   <elementGuidId>137907ed-f1a0-47f9-9705-fa577c72adfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='startDateInput']//following::div[@class='ngb-dp-day']//div[text()=${startDate}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='startDateInput']//following::div[@class='ngb-dp-day']//div[text()=${startDate}]</value>
+   </webElementProperties>
+</WebElementEntity>

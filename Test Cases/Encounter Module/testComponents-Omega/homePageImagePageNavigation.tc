@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#782</description>
+   <name>homePageImagePageNavigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e81989b3-11b5-4089-8ae3-eddaeb7fab1f</testCaseGuid>
+   <variable>
+      <defaultValue>'Profiles'</defaultValue>
+      <description></description>
+      <id>0d7a32d1-6b0a-4782-8aa1-26a4d034dc10</id>
+      <masked>false</masked>
+      <name>moduleName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_addPeople_dobDay</name>
+   <tag></tag>
+   <elementGuidId>9fd24083-2a26-4960-802f-eba4e31dedbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='dateOfBirthInput']//following::div[@class='ngb-dp-day']//div[text()=${day}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='dateOfBirthInput']//following::div[@class='ngb-dp-day']//div[text()=${day}]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#148</description>
+   <name>Statistics_Validate Repeat Volunteer Support on Statistics</name>
+   <tag></tag>
+   <comment>Adding the Existing Volunteer
+Close lightbox after adding volunteers
+Percentage Calculation for Repeat Volunteer Support
+Validating the Repeat Volunteer Support in statistics</comment>
+   <testCaseGuid>d3c30d68-55ca-49cd-986f-fa781577bbf0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>9fdcbc16-61b7-4795-901f-e0f741f8cc14</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

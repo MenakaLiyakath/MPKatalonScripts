@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Resolve Duplicate Particiapants - Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9d5d738-540b-4c7d-b2b6-502abe088045</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f24730e-69f9-4b85-9545-bca47121f16a</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f3b5954a-8b35-4238-be83-f35ac15416db</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2073b126-2594-4f62-9e31-52b6224dadb6</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3119662-c297-48cf-b70c-8f8fd7a498aa</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d2c8cafb-704c-44c8-925d-bcf82b84df2d</id>
+      <masked>false</masked>
+      <name>Childcare</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d8eeb88-39c7-4cec-9c77-3c183b422049</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>2e6dfb29-734f-4fb7-8700-f0ba6853c919</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

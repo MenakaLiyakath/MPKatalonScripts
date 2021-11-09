@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_registration_parishSelectOption</name>
+   <tag></tag>
+   <elementGuidId>ef6c0b5d-b569-4b58-83cc-6ecdd27124e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='parishesDropdown']//div[@role='option']//span[@class='ng-option-label'][text()=&quot;${selectParish}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='parishesDropdown']//div[@role='option']//span[@class='ng-option-label'][text()=&quot;${selectParish}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

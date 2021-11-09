@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropDownValue_fbWizardLightbox_primaryRole</name>
+   <tag></tag>
+   <elementGuidId>725d86fa-8f7d-457c-9a84-3bf42892b176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='volunteerPrimaryRole-panel']//mat-option//span[text()=&quot;${primaryRole}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='volunteerPrimaryRole-panel']//mat-option//span[text()=&quot;${primaryRole}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

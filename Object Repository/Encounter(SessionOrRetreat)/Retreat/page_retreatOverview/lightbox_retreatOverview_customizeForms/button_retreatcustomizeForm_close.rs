@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_retreatcustomizeForm_close</name>
+   <tag></tag>
+   <elementGuidId>01ed4c6f-d64d-4f5b-b2b5-7d332e37475c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='modal-content']//a[@id='closeIcon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='modal-content']//a[@id='closeIcon']</value>
+   </webElementProperties>
+</WebElementEntity>

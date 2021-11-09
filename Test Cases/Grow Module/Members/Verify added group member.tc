@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#53</description>
+   <name>TC 04-Verify added group member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90c03f71-edf2-41c2-be63-e29090a0bd7c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>57596299-03c1-4d5b-8f51-6982eebcfdba</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80a33811-318f-43e5-a854-1977ea26eecd</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b6f7b7a-9b3a-4af0-bb21-0c68cd498df4</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d8823f0-7582-4355-adfc-41f3432f9720</id>
+      <masked>false</masked>
+      <name>navigateToMembers</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39e41102-46d1-4d3e-8279-84f23ae4ef94</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>

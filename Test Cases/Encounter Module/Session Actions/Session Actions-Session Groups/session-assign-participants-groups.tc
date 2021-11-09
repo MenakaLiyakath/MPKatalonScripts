@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-assign-participants-groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94128a5b-e3ed-4a2e-850a-91e513fc4ad9</testCaseGuid>
+   <variable>
+      <defaultValue>'sessionParticipants'</defaultValue>
+      <description></description>
+      <id>baacb1ac-fee9-4dcd-80a5-35f2bbf165fa</id>
+      <masked>false</masked>
+      <name>indicateDataFile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>a34c4cd0-f097-443b-8373-9409241c6073</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>57f14bc4-188e-4923-8e7b-ba8ee11d493c</id>
+      <masked>false</masked>
+      <name>startIndexToGroup</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>0d96c8fb-1ec7-4130-8fb5-649be2c4ddf3</id>
+      <masked>false</masked>
+      <name>numberToGroup</name>
+   </variable>
+</TestCaseEntity>

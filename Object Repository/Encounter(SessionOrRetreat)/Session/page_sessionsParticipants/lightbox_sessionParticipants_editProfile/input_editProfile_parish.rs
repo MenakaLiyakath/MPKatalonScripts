@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_editProfile_parish</name>
+   <tag></tag>
+   <elementGuidId>3b7b15f1-68cc-46d0-a92e-757dca55f6a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='parishNew']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='parish']//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='parishNew']</value>
+   </webElementProperties>
+</WebElementEntity>

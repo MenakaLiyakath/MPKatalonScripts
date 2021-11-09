@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02-Customize registration form</name>
+   <tag></tag>
+   <comment>validate contact error and toggle display for input fields
+validate toggled elements
+Restore toggle value</comment>
+   <testCaseGuid>c68010f5-b449-49a5-9109-18652d582f63</testCaseGuid>
+   <variable>
+      <defaultValue>'text'</defaultValue>
+      <description></description>
+      <id>626f8cd6-24af-4397-893a-5884c559cde2</id>
+      <masked>false</masked>
+      <name>comments</name>
+   </variable>
+</TestCaseEntity>

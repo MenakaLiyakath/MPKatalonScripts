@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-delete Retreat Participants From Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8471fde-7fa3-4075-8d1f-3a856a3e25a3</testCaseGuid>
+   <variable>
+      <defaultValue>'Data Files/retreatParticipantsToGroup'</defaultValue>
+      <description></description>
+      <id>b24e60ff-8192-47ac-a0c7-594c58f7fe6f</id>
+      <masked>false</masked>
+      <name>indicateDataFile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>c6c750d4-9962-4e97-b595-8b036fea1cc8</id>
+      <masked>false</masked>
+      <name>elementToVerify</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>97e84127-f093-48fc-8622-00c16189a07e</id>
+      <masked>false</masked>
+      <name>elementToDelete</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89fb4436-6263-46e0-96e6-ae91c6060e94</id>
+      <masked>false</masked>
+      <name>lastNameCommaFirstName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-assign-participants-groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88943401-6877-4a93-929e-be1379e5dc4d</testCaseGuid>
+   <variable>
+      <defaultValue>'sessionParticipants'</defaultValue>
+      <description></description>
+      <id>6ba9d4d0-2e67-4653-82c3-26604eaa1b39</id>
+      <masked>false</masked>
+      <name>indicateDataFile</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>088a2c2e-f4d2-4379-ab19-40e595b0c8e8</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>9d9b5c36-eab5-4497-ab13-b671559b949b</id>
+      <masked>false</masked>
+      <name>startIndexToGroup</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>d82aa03d-44af-48b6-9350-6323a62c0758</id>
+      <masked>false</masked>
+      <name>numberToGroup</name>
+   </variable>
+</TestCaseEntity>

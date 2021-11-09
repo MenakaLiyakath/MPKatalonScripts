@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 35- Manually Assign Group Participants for Session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70af208b-8ea3-475a-a411-d1a2223e702f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>4e039999-e945-4545-94ff-0a6681164637</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c437b43a-d5a2-414d-a9e1-01ed88ae4e26</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>318b3616-37f5-4f82-934f-0a4955877c88</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1426d84-324e-4dc4-82a4-a5058b1a924f</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

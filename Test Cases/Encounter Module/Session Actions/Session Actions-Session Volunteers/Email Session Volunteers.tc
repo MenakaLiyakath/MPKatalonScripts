@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>assumes session volunteers have been selected by checkboxes
+
+card # 507</description>
+   <name>Email Session Volunteers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b9a20bd-3f8a-4c0a-bbda-585cd8fafdb6</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>ee3ebcf4-8893-468b-a003-6418052e87f0</id>
+      <masked>false</masked>
+      <name>expectedEmails</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>0da17ff7-04a4-4114-87fb-0e77a882ad3d</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>38fc3848-4006-4328-9926-f99e4a997539</id>
+      <masked>false</masked>
+      <name>listSize</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb598849-c47b-4715-85ea-11036aa48e09</id>
+      <masked>false</masked>
+      <name>communicateVia</name>
+   </variable>
+</TestCaseEntity>

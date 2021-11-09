@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#828</description>
+   <name>Session Overview - Validate Session Filters-TimeFrame(LastSixMonths)</name>
+   <tag></tag>
+   <comment>Get the duration between start date and current date
+Append 0 to day if less than 10
+Handle AM/PM and convert hour
+Convert month to numbers
+Validate Last 6 Months</comment>
+   <testCaseGuid>2ad04f21-c160-4fae-aeb5-d72890ac2baf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0eb030cc-a0f1-49e6-994a-72b262703baa</id>
+      <masked>false</masked>
+      <name>sessName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>550294a7-e052-4439-9021-550ef9e88148</id>
+      <masked>false</masked>
+      <name>endingHour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3655588-d86f-4089-bfba-a85f02f2291f</id>
+      <masked>false</masked>
+      <name>endingMinutes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b281007d-4e05-464f-b210-50f941ea489a</id>
+      <masked>false</masked>
+      <name>endingAMPM</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0638200b-cfce-40b4-b7e7-47ffa46d5e80</id>
+      <masked>false</masked>
+      <name>endDateYear</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18c5a612-f574-4687-b867-758e7a078156</id>
+      <masked>false</masked>
+      <name>endDateMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7838296-3048-42db-9dde-9cda54cb29dd</id>
+      <masked>false</masked>
+      <name>endDateDay</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>64ad7dd5-984c-4285-a13c-28b722babcff</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77abf8b6-f9ad-4145-a495-ec5f8f6afea0</id>
+      <masked>false</masked>
+      <name>startingHour</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1490daf3-97e2-4091-9447-760eaf60ae87</id>
+      <masked>false</masked>
+      <name>startDateYear</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78ee2c14-3772-4097-a077-e1e5a46b386f</id>
+      <masked>false</masked>
+      <name>startDateMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>124ff3c9-e288-4059-8b93-3f4c8c77d9d7</id>
+      <masked>false</masked>
+      <name>startDateDay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc8a5d79-1f8f-4fec-a75c-b6b2dc6e7b9e</id>
+      <masked>false</masked>
+      <name>startingAMPM</name>
+   </variable>
+</TestCaseEntity>

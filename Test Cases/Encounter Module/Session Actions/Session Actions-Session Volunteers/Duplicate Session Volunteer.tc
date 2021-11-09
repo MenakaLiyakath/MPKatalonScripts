@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Duplicate Session Volunteer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de35957e-6d3f-4349-83bf-c2949067f360</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcead814-e1ff-44cd-8e3f-6bbc70162a2d</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5cb11948-1567-4ce9-90fe-9a9dbe05162d</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0745bd7f-ba42-4c0d-b41c-4a524adbc7f6</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31be5669-746c-4578-83ac-6bc42597b29c</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bae1048e-934a-4545-be69-6198f4a52796</id>
+      <masked>false</masked>
+      <name>Skills</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96f6f269-0e1f-4d2a-9144-239dc275bb6d</id>
+      <masked>false</masked>
+      <name>PreferredRoles</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>458e7cd3-c5bc-43a7-a328-9f41d285907f</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

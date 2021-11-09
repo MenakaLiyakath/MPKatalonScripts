@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Related to Card#839</description>
+   <name>Communication-Email Session Participants</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b23a0f9-1adb-4915-af43-5770bb3af6d2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b99ef1ab-6b44-4774-a983-d82d98a9c2ae</id>
+      <masked>false</masked>
+      <name>communicateVia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>e2e5fa1e-4534-4dd1-a3e2-1adc670d6a32</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "413AFDF0080177988801F9304A103973",
+  "keywordClasses": [
+    {
+      "name": "verificationFunctions.attendanceCheckboxValidation",
+      "keywordMethods": [
+        {
+          "name": "checkboxValidation",
+          "parameters": [
+            {
+              "name": "dynamicObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

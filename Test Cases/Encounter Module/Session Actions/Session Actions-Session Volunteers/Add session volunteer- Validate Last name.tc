@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#834
+</description>
+   <name>Add session volunteer- Validate Last name</name>
+   <tag></tag>
+   <comment>Verify if create new and similar records spans are displayed
+Split the total similar records and convert it to integer
+Get the total count of options in last name dropdown and validate it against the total similar records
+Create New /Select existing
+Create New
+Validate all member related fields are disabled and non member fields are editable
+Enter value in editable field
+Clear fields and validate all field values are set to default</comment>
+   <testCaseGuid>392b5f82-b246-4de7-90c8-85958949f0cb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1ae7f63-7e50-4b92-a9d7-b7cf6f71f019</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7998b17-f428-4200-90c8-022b44494799</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ca0cbb9-ae7e-4511-b08a-449073657a34</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f09bc260-b5ba-40a5-99d5-9f9e088a342f</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>8c64fdc5-2496-431f-b3a6-3e9bab98aed4</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card #61</description>
+   <name>Click and open person on profile page</name>
+   <tag></tag>
+   <comment>input filter values
+click and open person</comment>
+   <testCaseGuid>1a7d7875-3e25-48ab-9371-9bd6457289c8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4649463e-d065-4132-8147-3c598d92b0b2</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f47723b4-6262-403a-9e6a-8f4537eddc81</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae2ba5f5-f2f0-48ee-8ab1-c892f5f4ed9b</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Is equal to'</defaultValue>
+      <description></description>
+      <id>4efe62b6-fc98-4919-a166-a28c7f149be4</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>a046abbf-88aa-4e29-a10c-12224e1fe5d6</id>
+      <masked>false</masked>
+      <name>dynamicObjext</name>
+   </variable>
+</TestCaseEntity>

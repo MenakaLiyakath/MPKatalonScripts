@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Number of Groups for Session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87532938-9d19-4362-8e03-2a739598c35b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbbd2b75-b53f-43fa-aaf1-f615df437c92</id>
+      <masked>false</masked>
+      <name>numberOfGroups</name>
+   </variable>
+</TestCaseEntity>

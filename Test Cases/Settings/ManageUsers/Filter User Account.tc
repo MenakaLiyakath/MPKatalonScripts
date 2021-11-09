@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#141</description>
+   <name>Filter User Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82649c9b-900b-4b32-aac3-0b96a839bfa4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f70aa22b-d679-48a2-8cd3-8c8c983a42fa</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c538abe-80b5-47d9-8532-b65f0518f104</id>
+      <masked>false</masked>
+      <name>Firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d8b5efd-4c69-4a10-8bda-b40d5f695848</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60c08a08-3747-4c6d-9f51-faaac1b08054</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30a5c58c-b4e3-4c78-aaf3-9f19c590f5a2</id>
+      <masked>false</masked>
+      <name>filterOptions</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>241183f1-7e6d-45b6-bc50-44a747af33f3</id>
+      <masked>false</masked>
+      <name>filterColumn</name>
+   </variable>
+</TestCaseEntity>

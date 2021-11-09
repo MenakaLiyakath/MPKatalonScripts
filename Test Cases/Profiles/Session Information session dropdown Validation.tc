@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Session Information session dropdown Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3b91687-5bc3-4868-b798-068cff3c9574</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f8fb689-bce7-400c-b244-8ed2d6d3698c</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2abb2b10-a3ab-42f9-839c-0f4dce5a57d9</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>e1a673b4-2284-41c6-9782-c8b964f3db20</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

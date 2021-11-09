@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card # 532</description>
+   <name>retreat_import group from session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf2b626e-c507-4269-b277-216c83c249b7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>9316ffa1-3ac1-47d2-994b-30565809005b</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

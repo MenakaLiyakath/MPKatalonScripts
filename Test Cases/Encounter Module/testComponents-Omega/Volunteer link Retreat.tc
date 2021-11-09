@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Volunteer link Retreat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c830f996-5f32-4e96-a84c-beffcb6fec9b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e39a12c6-7946-4149-ab5e-974e2cee46c4</id>
+      <masked>false</masked>
+      <name>module</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7bcac198-37a7-44cd-8f40-584155bdb247</id>
+      <masked>false</masked>
+      <name>sessionOrRetreatName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1887bff6-b8b5-47da-a5f4-50f9d07661ac</id>
+      <masked>false</masked>
+      <name>participantOrVolunteer</name>
+   </variable>
+</TestCaseEntity>

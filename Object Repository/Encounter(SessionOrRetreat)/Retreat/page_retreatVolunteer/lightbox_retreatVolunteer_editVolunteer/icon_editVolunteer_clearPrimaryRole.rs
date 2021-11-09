@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_editVolunteer_clearPrimaryRole</name>
+   <tag></tag>
+   <elementGuidId>bb1b3c28-4f33-4aae-a5fb-f20bc7d0c531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='volunteer-primary-role-dropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dateOfBirthButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='volunteer-primary-role-dropdown']//span//span[@class='ng-clear']</value>
+   </webElementProperties>
+</WebElementEntity>

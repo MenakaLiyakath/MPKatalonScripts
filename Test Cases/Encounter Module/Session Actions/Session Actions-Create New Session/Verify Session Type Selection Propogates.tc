@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Session Type Selection Propogates</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f5523d4-9833-4033-9771-581bf857119c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f547ad92-4621-4b6c-ac0d-d2fefa2e0992</id>
+      <masked>false</masked>
+      <name>SessName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a2a5468-4217-4039-afce-b8ada59498c5</id>
+      <masked>false</masked>
+      <name>SessType</name>
+   </variable>
+</TestCaseEntity>

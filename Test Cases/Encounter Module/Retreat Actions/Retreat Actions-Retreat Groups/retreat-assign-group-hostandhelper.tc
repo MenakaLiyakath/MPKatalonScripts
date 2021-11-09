@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#665</description>
+   <name>retreat-assign-group-hostandhelper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a9ca157-6b11-43d3-b5b1-45903b1938af</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e156856-c2bd-4209-8826-68e91a0d50fb</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54487f74-bd7d-475a-b70b-c3e2a8e5595e</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af740a31-c0f9-4770-8421-8d272d55aed9</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

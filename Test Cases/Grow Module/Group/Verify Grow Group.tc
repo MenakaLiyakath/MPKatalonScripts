@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 06-Verify Grow Group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>554157db-ad59-40d9-b36f-f41cd76ffe35</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08167b54-1d46-4c60-a2c3-b88171bd5c22</id>
+      <masked>false</masked>
+      <name>GroupType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9bbf5692-d29a-4131-9d90-f6d5037f4953</id>
+      <masked>false</masked>
+      <name>PrimaryLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18dba086-2df8-41c3-be52-de0825c676f3</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efaf027a-d2b5-4383-a33a-0ff844ff5399</id>
+      <masked>false</masked>
+      <name>GroupTypeColor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>bc796738-907a-4529-b9f6-d878feaaa08f</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1803c6b-ad02-4928-ac1b-9f0db9f30773</id>
+      <masked>false</masked>
+      <name>Audience</name>
+   </variable>
+</TestCaseEntity>

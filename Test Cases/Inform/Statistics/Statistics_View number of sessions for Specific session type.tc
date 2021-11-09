@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Statistics_View number of sessions for Specific session type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66232411-f38d-43c5-8770-fa2ee34ee958</testCaseGuid>
+   <variable>
+      <defaultValue>'Christian Experience Weekend'</defaultValue>
+      <description></description>
+      <id>5e8bd095-efd8-4e10-8841-dcf45a08f2db</id>
+      <masked>false</masked>
+      <name>SessType</name>
+   </variable>
+</TestCaseEntity>

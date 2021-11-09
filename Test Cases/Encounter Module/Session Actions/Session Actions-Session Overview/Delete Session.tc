@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#727</description>
+   <name>Delete Session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09f8c4b5-1ce2-4c1d-8e64-936726a50b66</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>b41015b4-6e22-4c25-a53b-46bb4e697b94</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

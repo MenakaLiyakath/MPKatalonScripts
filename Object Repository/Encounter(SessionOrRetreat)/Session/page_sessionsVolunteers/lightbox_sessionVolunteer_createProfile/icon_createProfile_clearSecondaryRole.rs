@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_createProfile_clearSecondaryRole</name>
+   <tag></tag>
+   <elementGuidId>e690bd43-aca7-4368-9f10-8716107b042d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='secondaryRoleDropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='secondaryRoleDropdown']//span//span[@class='ng-clear']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter General Notes and Food Notes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5407b8b3-ca81-4fb6-b2ea-d688e0bbc0b9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4da3dfcd-c8c3-4c56-988b-11a0ecd4a877</id>
+      <masked>false</masked>
+      <name>retreatName</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>c85487c8-19f0-4dc6-b253-7cfdde59b2a7</id>
+      <masked>false</masked>
+      <name>notescount</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>03b44a76-bc1b-498b-8562-e089beb120d8</id>
+      <masked>false</masked>
+      <name>notescount1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>ec30ac96-d796-4ca8-8100-276291d4bc45</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>'Food notes'</defaultValue>
+      <description></description>
+      <id>befb53f9-26fe-4237-b9b0-dc8a4083ec0c</id>
+      <masked>false</masked>
+      <name>MeetingFoodNoteBaseText</name>
+   </variable>
+</TestCaseEntity>

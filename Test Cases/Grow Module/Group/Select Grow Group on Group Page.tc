@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#51,215</description>
+   <name>TC 07-Select Grow Group on Group Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6d7d134-ae6a-4913-875f-4aac224a3de6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbfdd678-3baf-4421-9d63-f9938b593b57</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>79922e8d-441a-40a3-aa63-300475e2b0ea</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab2dca4e-9a27-4e56-af11-03dc7ab930db</id>
+      <masked>false</masked>
+      <name>openCalendar</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ed5045a-622a-4ba3-91bd-834c54f7febf</id>
+      <masked>false</masked>
+      <name>navigateToMember</name>
+   </variable>
+</TestCaseEntity>

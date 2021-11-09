@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#80</description>
+   <name>TC 03-Create New Group Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8934feb-bfee-4d90-bbb1-4d7a9af7402e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a670cd17-70d2-4f0b-ba42-89db1172e3bb</id>
+      <masked>false</masked>
+      <name>GroupTypeOnSettings</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>27ed2ac9-3e80-4a89-9ed9-08393fc9831c</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>956f7076-8823-43cc-8562-35817fab4d01</id>
+      <masked>false</masked>
+      <name>GroupTypeColourOnSettings</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.globalTestUser</defaultValue>
+      <description></description>
+      <id>e2661b31-1f95-4bb8-82b3-dd3aae0e85c0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

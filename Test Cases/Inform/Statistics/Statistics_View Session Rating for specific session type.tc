@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Statistics_View Session Rating for specific session type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19278ed6-29e9-4ef6-a638-137942de05e7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>703585d6-c1ca-40a0-94a9-04bcf30b3586</id>
+      <masked>false</masked>
+      <name>SessType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>0363811a-8906-4941-86e6-935bce206a74</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

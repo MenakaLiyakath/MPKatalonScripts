@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dateDelete</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b593d70e-96c3-47e8-adb3-6397c5ab8c80</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d38b3f90-494b-452f-a870-f085c9107b66</id>
+      <masked>false</masked>
+      <name>dateMonthCalendarSelect</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e310697-ed7f-4700-ace6-4e957d1660f3</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+</TestCaseEntity>

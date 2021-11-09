@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_createProfile_clearPreferredRoles</name>
+   <tag></tag>
+   <elementGuidId>3168d4d2-b425-41fb-bb96-1c4234f2adb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='volunteer-preferred-role-dropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ng-select[@id='primaryRoleDropdown']//span//span[@class='ng-clear']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='volunteer-preferred-role-dropdown']//span//span[@class='ng-clear']</value>
+   </webElementProperties>
+</WebElementEntity>

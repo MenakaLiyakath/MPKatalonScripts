@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Form Builder Wizard - Grow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6da2715-3eab-446c-8b41-78435631deeb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>973b3317-f4de-48f7-94d6-623c236e766b</id>
+      <masked>false</masked>
+      <name>growName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31891456-0169-40c1-a9de-86967a8433c8</id>
+      <masked>false</masked>
+      <name>formName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a5ca757-0471-4f99-a7e5-cebb637c8b17</id>
+      <masked>false</masked>
+      <name>formType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e77ce062-8d87-46d1-99d9-fb7e223b37df</id>
+      <masked>false</masked>
+      <name>participantOrLeader</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83f0425f-9ed4-4cd3-abae-efecd6aea744</id>
+      <masked>false</masked>
+      <name>participant</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81e9f2b8-dfa8-4f49-829a-54886ff8ec53</id>
+      <masked>false</masked>
+      <name>leader</name>
+   </variable>
+</TestCaseEntity>

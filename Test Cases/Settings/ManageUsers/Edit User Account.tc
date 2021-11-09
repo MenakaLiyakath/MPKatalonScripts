@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#271</description>
+   <name>Edit User Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5987634-5d0a-4edc-bf92-12797834ecf5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>649fef93-5ede-4f22-b8bb-237e79a603fa</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0744f02-abe2-4b52-b1bb-232c45fb69ee</id>
+      <masked>false</masked>
+      <name>Firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92ee64aa-7a84-409f-90b9-38d26300d9a0</id>
+      <masked>false</masked>
+      <name>EncounterAccess</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>005c8c77-a74d-49ed-b98d-81a885f928fc</id>
+      <masked>false</masked>
+      <name>GrowModuleAccess</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6e4ae6b-0ced-4e97-8e00-859b90d09b47</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>2792dd67-6517-4a8a-83ef-6bd4ef55d3a5</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>319875c3-b2eb-433a-9664-d6e023dc2eb1</id>
+      <masked>false</masked>
+      <name>growAccess</name>
+   </variable>
+</TestCaseEntity>

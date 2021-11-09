@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>session-assign-group-hostandhelper</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83f481ab-3de5-4da7-9870-59c94c3f8291</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6ab50ec-e96f-43a5-b1d0-333ddca1077a</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07750141-2a70-4974-932d-ed4937d36a99</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0336cc7c-4de5-42bd-be2a-e12961dd66ed</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+</TestCaseEntity>

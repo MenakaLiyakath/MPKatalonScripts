@@ -1,0 +1,95 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/button_group_customizeRegistrationForm'))
+
+WebUI.comment('validate contact error and toggle display for input fields')
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_phoneNumber'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_emailAddress'))
+
+WebUI.verifyElementPresent(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/label_customizeForm_contactError'), 
+    1)
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_phoneNumber'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_emailAddress'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_emailAddress'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_phoneNumber'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_gender'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_dateOfBirth'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_parish'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_spirituality'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_preferredContactMethod'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_inviteFriend'))
+
+WebUI.setText(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/textArea_customizeForm_additionalCommentsHelperText'), 
+    comments)
+
+WebUI.verifyElementNotVisible(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/label_customizeForm_contactError'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/button_customizeForm_update'))
+
+WebUI.comment('validate toggled elements')
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/button_group_customizeRegistrationForm'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_gender'))
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_dateOfBirth'))
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_parishChurchAffiliation'))
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_spirituality'))
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_preferredContactMethod'))
+
+WebUI.verifyElementNotClickable(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/checkBox_customizeForm_inviteFriend'))
+
+WebUI.verifyElementAttributeValue(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/textArea_customizeForm_additionalCommentsHelperText'), 
+    'value', comments, 1)
+
+WebUI.comment('Restore toggle value')
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_gender'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_dateOfBirth'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_parish'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_spirituality'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_preferredContactMethod'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/toggle_customizeForm_inviteFriend'))
+
+WebUI.click(findTestObject('module_grow/page_group/tab_group_details/lightbox_group_customizeMemberRegistrationForm/button_customizeForm_update'))
+

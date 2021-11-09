@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Participant link session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a02088ab-5957-4a4e-9060-bcaa1a036aaa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b38cdc24-5bb4-405e-9d71-ed5b518293fc</id>
+      <masked>false</masked>
+      <name>module</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e15a90c-1376-4ddb-b1b4-2fcdb90ed25e</id>
+      <masked>false</masked>
+      <name>sessionOrRetreatName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e813e78-a1a7-4e75-82cc-ce75e0707000</id>
+      <masked>false</masked>
+      <name>participantOrVolunteer</name>
+   </variable>
+</TestCaseEntity>

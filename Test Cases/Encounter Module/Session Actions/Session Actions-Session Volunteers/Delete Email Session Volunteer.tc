@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card # 507</description>
+   <name>Delete Email Session Volunteer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7fb7cd7-a562-4c76-aee0-f2f34e3a0544</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8c58a71-b285-4b37-9eeb-9555fb6eada3</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>113a8220-e99b-4c6c-a1fe-91d0b56673be</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

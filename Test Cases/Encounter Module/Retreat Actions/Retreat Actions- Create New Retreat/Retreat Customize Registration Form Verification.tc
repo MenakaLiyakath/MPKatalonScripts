@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retreat Customize Registration Form Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c36d02d5-9f3a-40b6-9807-e8f31d673a2b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.globalLoginUrl</defaultValue>
+      <description></description>
+      <id>f1a98416-82c2-4fab-b1ad-d405f62544d4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.globalTestUser</defaultValue>
+      <description></description>
+      <id>a10dc98d-4425-49bc-a27c-e404843d47dd</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.globalTestUserPassword</defaultValue>
+      <description></description>
+      <id>a470b763-a933-4d98-904f-61909a6bb0a7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ca87431-abf7-405c-a271-6c84ccdb8332</id>
+      <masked>false</masked>
+      <name>ChildCareRequestDisplay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1db6d5f-2274-41e3-a06b-65a7775c5cc9</id>
+      <masked>false</masked>
+      <name>ChildCareRequired</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>300ca7ef-8826-4a59-a7c7-812258e65f42</id>
+      <masked>false</masked>
+      <name>DietaryRestrictionsDisplay</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4180b5a0-f608-436b-88c0-b84363dd0f06</id>
+      <masked>false</masked>
+      <name>DietaryRestrictionsRequired</name>
+   </variable>
+</TestCaseEntity>

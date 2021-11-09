@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click Attendance boxes for Participants and Volunteers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65ae5cb5-54ae-4559-8e15-7bc20a6e738c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7b8a7ef-158d-44d4-97bd-149c5cf68484</id>
+      <masked>false</masked>
+      <name>Attendance</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca0a276a-3f59-47d3-b712-a0a7ef10d9a1</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>262783bf-a95e-45dc-8565-82bd127f529a</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10e88bd3-cc3f-4005-a0b9-75066def8865</id>
+      <masked>false</masked>
+      <name>participantOrVolunteer</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>d6861ae9-8bfc-4a4f-934f-f04e91bc681f</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

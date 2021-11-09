@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retreat food notes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>741f0e16-a4a1-4832-8740-f68435fd9d6f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>032224ef-3ba6-4b9f-b53e-34a30e4782e2</id>
+      <masked>false</masked>
+      <name>retreatName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f11d681-5ec1-455d-9e92-bb24403df15d</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2947a696-ba16-4143-8187-b03fceae6fff</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>

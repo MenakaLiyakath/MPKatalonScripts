@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Form Builder Wizard - Session</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ef06d1f-1c44-4b50-bbcf-58818539c422</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c5e24a5-5650-4aa5-86e5-5f5a04801ebd</id>
+      <masked>false</masked>
+      <name>sessionName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57cb520f-d52a-4531-9071-d15ff3f38cbd</id>
+      <masked>false</masked>
+      <name>formType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7714d5f-394f-4f05-82d9-62d96171507c</id>
+      <masked>false</masked>
+      <name>volPrimaryRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ff4ef17-7683-4d68-aa57-d1fbe2c5c6d7</id>
+      <masked>false</masked>
+      <name>volSecondaryRole</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e78387d-fdcc-4679-8236-b2f8dfaa2b3a</id>
+      <masked>false</masked>
+      <name>formName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f6e3521-f902-4f60-b7a8-23722b962829</id>
+      <masked>false</masked>
+      <name>feedBackAnonymous</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>cf99cd5d-7a38-49fc-a664-d073cd0dc073</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Associate Sessions with Retreat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1abf1642-7140-48d4-b37e-e41dd7d75b63</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>7beb77b5-a3bf-4533-8037-7b72770b4c15</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a050aba8-bb72-4641-81c1-3b04de75c561</id>
+      <masked>false</masked>
+      <name>sessionsToBeAssociatedCheckboxes</name>
+   </variable>
+   <variable>
+      <defaultValue>'123 Fourth Ave, A2'</defaultValue>
+      <description></description>
+      <id>89a83b21-48f0-491d-a708-36cfcb37658c</id>
+      <masked>false</masked>
+      <name>retreatAddress</name>
+   </variable>
+</TestCaseEntity>

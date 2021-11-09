@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#60</description>
+   <name>Delete Group Members on Members Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>818d04c1-ecb8-406b-b606-614760f05a98</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>2a49907d-6762-4d6b-b42c-a3f4a485552f</id>
+      <masked>false</masked>
+      <name>dynamicobject</name>
+   </variable>
+</TestCaseEntity>

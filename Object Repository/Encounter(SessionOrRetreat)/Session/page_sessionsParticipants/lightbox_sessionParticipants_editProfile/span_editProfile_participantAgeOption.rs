@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_editProfile_participantAgeOption</name>
+   <tag></tag>
+   <elementGuidId>0a09eb42-a293-403b-8312-728c166bae39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='participant-age-dropdown']//span[@class='ng-option-label'][text()=&quot;${ageRange}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='participant-age-dropdown']//span[@class='ng-option-label'][text()=&quot;${ageRange}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

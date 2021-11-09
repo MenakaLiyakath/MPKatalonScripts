@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Duplicate entry on same Grow group</name>
+   <tag></tag>
+   <comment>Navigate to Members tab for a selected group
+Add people icon on page is clicked no people data exist else Add peple icon on header is clicked
+Changes for Card#335 starts here</comment>
+   <testCaseGuid>a7ad02e4-c3a4-4be2-a617-27b84435083d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be80b22b-b2b8-497c-a921-19f35003981e</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>8f3f73fa-dd20-4f8c-b079-04bca81e9f45</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85c510e0-fc84-4fda-968e-672c0ba0249d</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+</TestCaseEntity>

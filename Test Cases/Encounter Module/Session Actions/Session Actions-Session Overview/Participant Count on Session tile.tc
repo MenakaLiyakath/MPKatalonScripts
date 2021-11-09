@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#787</description>
+   <name>Participant Count on Session tile</name>
+   <tag></tag>
+   <comment>Check for existing groups and delete group if available
+Split and get the participant count of first group
+Navigate to Session Tile and validate participant count</comment>
+   <testCaseGuid>6461eef7-5fae-4682-9541-ff263075708c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdeeb236-7311-4ea8-83cc-254a745337ed</id>
+      <masked>false</masked>
+      <name>SessName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>0c5b5347-cc62-495f-92f8-c7f7de10c061</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

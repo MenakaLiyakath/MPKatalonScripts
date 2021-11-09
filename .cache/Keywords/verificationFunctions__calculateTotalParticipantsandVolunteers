@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "71DB44A028AFED699EA67CA8F9A725EF",
+  "keywordClasses": [
+    {
+      "name": "verificationFunctions.calculateTotalParticipantsandVolunteers",
+      "keywordMethods": [
+        {
+          "name": "calculateParticipant",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "calculateVolunteer",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

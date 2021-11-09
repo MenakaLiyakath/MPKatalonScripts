@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Card#147</description>
+   <name>Statistics_Validate Volunteer Conversion on Statistics</name>
+   <tag></tag>
+   <comment>Adding the participant As Volunteer
+Close lightbox after adding volunteers
+Percentage Calculation for participantToVolunteerConversion
+Validating theconverted Volunteers in statistics</comment>
+   <testCaseGuid>df7bcf8d-a825-4db7-9933-b2206d8d4a2e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>aca51e2b-bb29-4d8d-94c0-a6a0179404b9</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+</TestCaseEntity>

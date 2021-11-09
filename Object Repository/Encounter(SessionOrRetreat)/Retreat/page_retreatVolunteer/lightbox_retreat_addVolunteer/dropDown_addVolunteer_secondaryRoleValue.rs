@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropDown_addVolunteer_secondaryRoleValue</name>
+   <tag></tag>
+   <elementGuidId>1fd0f6df-b3ae-433d-a224-acf19732a239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ng-select[@id='secondaryRoleDropdown']//div//span[text()=&quot;$(secondaryRoleValue}&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ng-select[@id='secondaryRoleDropdown']//div//span[text()=&quot;$(secondaryRoleValue}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

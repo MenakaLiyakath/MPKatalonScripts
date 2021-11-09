@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Session Volunteers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>834d2eb5-e72e-4ab3-9511-b1c8156b4059</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('placeholderObject')</defaultValue>
+      <description></description>
+      <id>1684a062-a5c6-4960-b45c-2478c1310e1e</id>
+      <masked>false</masked>
+      <name>dynamicObject</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4246fa1e-fc78-4575-80eb-dd4d0fd05f48</id>
+      <masked>false</masked>
+      <name>selectSession</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58a62025-13a3-4539-8f9c-6b8dca95f3dd</id>
+      <masked>false</masked>
+      <name>Session</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9dd2ad0a-5a88-4526-932c-f6e9e0300a46</id>
+      <masked>false</masked>
+      <name>participantOrVolunteer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c917ea88-adc6-4f8e-85d9-0707d9579cc6</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>7c80dcd8-9521-476c-9c64-2b1d76007893</id>
+      <masked>false</masked>
+      <name>selectAllOrNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>808bc079-22ac-4ca6-95dc-8c2dda9cb1cb</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+</TestCaseEntity>
